@@ -1,3 +1,4 @@
+![logo](https://github.com/Rashidali11303/Rashidali11303/blob/main/Blue%20Modern%20Photo%20Technology%20YouTube%20Banner.png)
 <h1 align="center">Hi 👋, I'm Rashid Ali</h1>
 <h3 align="center">A passionate Software developer from India</h3>
 
