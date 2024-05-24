@@ -1,4 +1,4 @@
-
+![logo](https://github.com/Rashidali11303/Rashidali11303/blob/main/rs.png)
 <h1 align="center">Hi 👋, I'm Rashid Ali</h1>
 <h3 align="center">A passionate Software developer from India</h3>
 <img align="right" alt="Coding" width="400" src = "https://github.com/Rashidali11303/Rashidali11303/blob/main/img.gif" 
